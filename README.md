@@ -1,23 +1,6 @@
 # Student Management System - DSA Project
 
 A comprehensive Python-based Student Management System implementing fundamental Data Structures and Algorithms concepts for academic demonstration.
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Data Structures Implemented](#data-structures-implemented)
-- [Algorithms Implemented](#algorithms-implemented)
-- [Installation](#installation)
-- [Usage](#usage)
-- [System Architecture](#system-architecture)
-- [Time Complexity Analysis](#time-complexity-analysis)
-- [Project Structure](#project-structure)
-- [Example Operations](#example-operations)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This Student Management System demonstrates the practical implementation of core data structures and algorithms in a real-world scenario. The system manages student records efficiently using multiple data structures, each optimized for specific operations.
