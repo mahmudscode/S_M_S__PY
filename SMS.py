@@ -87,7 +87,6 @@ class DoublyLinkedList:
             current = current.next
         print(f"\nTotal Students: {self.size}")
 
-# ==================== BINARY SEARCH TREE ====================
 
 class BinarySearchTree:
     """BST for efficient searching by grade"""
@@ -140,7 +139,6 @@ class BinarySearchTree:
             else:
                 self._find_above_grade(node.right, min_grade, result)
 
-# ==================== HASH TABLE ====================
 
 class HashTable:
     """Hash Table for O(1) average lookup by student ID"""
@@ -182,7 +180,6 @@ class HashTable:
                 return True
         return False
 
-# ==================== SORTING ALGORITHMS ====================
 
 class SortingAlgorithms:
     """Various sorting algorithms for demonstration"""
