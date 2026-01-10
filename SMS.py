@@ -1,13 +1,7 @@
-"""
-Data Structures and Algorithms - Student Management System
-Demonstrates: Linked Lists, Binary Search Tree, Hash Tables, Sorting, Searching
-"""
-
 import json
 from typing import Optional, List
 from datetime import datetime
 
-# ==================== NODE CLASSES ====================
 
 class StudentNode:
     """Node for Linked List implementation"""
@@ -26,7 +20,6 @@ class BSTNode:
         self.left = None
         self.right = None
 
-# ==================== LINKED LIST ====================
 
 class DoublyLinkedList:
     """Doubly Linked List for storing students"""
